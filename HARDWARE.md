@@ -1,4 +1,4 @@
-[Hardware.pdf](https://github.com/user-attachments/files/32462429/Hardware.pdf)# Hardware — DivyaDrishti Smart Glasses
+
 
 ## Component List
 
@@ -52,6 +52,11 @@ User hears response through speaker/earphone
 
 ## Hardware Photos
 
+<img width="1600" height="1200" alt="5" src="https://github.com/user-attachments/assets/ff04eaba-92af-469b-9ec0-f4c63ef7afb2" />
+<img width="1600" height="1200" alt="4" src="https://github.com/user-attachments/assets/ad853b6d-c9d4-4d10-bb45-36481ab38956" />
+<img width="1600" height="1200" alt="3" src="https://github.com/user-attachments/assets/d2c2bc5b-8ead-4c86-ba2e-dc61e40e3b11" />
+<img width="1600" height="1200" alt="2" src="https://github.com/user-attachments/assets/1ba146aa-77d3-45ef-b2d5-d28e6eb52493" />
+<img width="1200" height="1600" alt="1" src="https://github.com/user-attachments/assets/b7372934-4001-481a-b331-502f85a61264" />
 
 
 ---
