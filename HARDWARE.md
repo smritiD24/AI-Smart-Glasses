@@ -1,4 +1,4 @@
-# Hardware — DivyaDrishti Smart Glasses
+[Hardware.pdf](https://github.com/user-attachments/files/32462429/Hardware.pdf)# Hardware — DivyaDrishti Smart Glasses
 
 ## Component List
 
@@ -25,24 +25,6 @@ All hardware was independently assembled, including:
 
 ---
 
-## Hardware Photos
-
-<p align="center">
-  <img src="assets/hardware_front.jpg" width="400" alt="Front view of assembled DivyaDrishti hardware"/>
-</p>
-
-<p align="center">
-  <img src="assets/hardware_side.jpg" width="400" alt="Side view showing Raspberry Pi and battery assembly"/>
-</p>
-
-<p align="center">
-  <img src="assets/hardware_components.jpg" width="400" alt="Component overview before assembly"/>
-</p>
-
-> Add your actual photo filenames above to match whatever you name them when uploading.
-
----
-
 ## System Flow
 
 ```
@@ -66,4 +48,10 @@ User hears response through speaker/earphone
 - Device is designed to be fully self-contained and wearable
 - All processing runs on-device (edge inference) via Raspberry Pi Zero 2 W
 - UPS ensures clean shutdown and prevents SD card corruption during field use
-- LED indicators provide non-audio feedback for system states
+
+
+## Hardware Photos
+
+
+
+---
