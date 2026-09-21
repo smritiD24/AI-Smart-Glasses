@@ -118,6 +118,6 @@ AI solutions for accessibility and assistive technology.
 
 **Smriti Dandin**
 AI/ML Engineer Intern — AidenAI, Bangalore
-MSc Student, IIT Gandhinagar
 
-[Your email] | [Your LinkedIn]
+
+
