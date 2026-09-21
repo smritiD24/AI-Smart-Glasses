@@ -1,6 +1,6 @@
 # DivyaDrishti — AI Smart Glasses for the Visually Impaired
 
-**AidenAI, Bangalore | June 2026 – Present**
+**AidenAI, Bangalore | June 2026 – September 2026**
 
 > ⚠️ This is a proprietary project developed at AidenAI, Bangalore. Source code is confidential and not included in this repository. This repository documents the system architecture, hardware assembly, and feature set.
 
